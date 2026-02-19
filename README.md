@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++, DSA, Django, APIs, Backend Development**
 
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **sayan05mukherjee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
